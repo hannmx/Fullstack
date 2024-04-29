@@ -1,0 +1,23 @@
+body {
+    background-color: #fff;
+}
+
+h1 {
+    color: #000;
+}
+
+p {
+    color: #888888;
+}
+
+button {
+    background-color: #F25822;
+    color: #fff;
+    border-radius: 5em;
+}
+
+.container {
+    max-width: 11460px;
+    margin: 0 auto;
+    padding: 0;
+}
