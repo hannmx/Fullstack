@@ -673,8 +673,22 @@ span.h2pink {
 
 .dropdown__filter__block {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
+    padding-left: 185px;
     margin-bottom: 64px;
+}
+
+.filter__block {
+    display: flex;
+    justify-content: center;    
+    padding-right: 320px;
+    position: relative;
+}
+
+.filter {
+    width: 360px;
+    position: absolute;
+    box-sizing: border-box;
 }
 
 .dropdown {
